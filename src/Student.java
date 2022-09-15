@@ -5,4 +5,12 @@ public class Student extends IndividualUser{
         super(UserId, UserEmail, id, firstName, lastName, tckno);
         this.grade = grade;
     }
+
+    public String getGrade() {
+        return grade;
+    }
+
+    public void setGrade(String grade) {
+        this.grade = grade;
+    }
 }

@@ -11,4 +11,38 @@ public class IndividualUser extends User{
         this.lastName = lastName;
         this.tckno = tckno;
     }
+
+    @Override
+    public int getId() {
+        return id;
+    }
+
+    @Override
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public String getTckno() {
+        return tckno;
+    }
+
+    public void setTckno(String tckno) {
+        this.tckno = tckno;
+    }
 }
