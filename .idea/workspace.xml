@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa269f1-383c-4cd7-abc0-53012d9938fc" name="Changes" comment="Base classes are created.">
-      <change afterPath="$PROJECT_DIR$/src/CorporateUserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndividualUserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstructorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserManager.java" afterDir="false" />
+    <list default="true" id="faa269f1-383c-4cd7-abc0-53012d9938fc" name="Changes" comment="Manager classes created.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CorporateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CorporateUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndividualUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663273321223</updated>
-      <workItem from="1663273323644" duration="2475000" />
+      <workItem from="1663273323644" duration="3020000" />
     </task>
     <task id="LOCAL-00001" summary="Project created">
       <created>1663273412614</created>
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663274708568</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Manager classes created.">
+      <created>1663275852795</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663275852795</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project created" />
     <MESSAGE value="Base classes are created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Base classes are created." />
+    <MESSAGE value="Manager classes created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Manager classes created." />
   </component>
 </project>
