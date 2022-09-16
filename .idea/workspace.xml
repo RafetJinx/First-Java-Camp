@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa269f1-383c-4cd7-abc0-53012d9938fc" name="Changes" comment="Manager classes functions created (add, addMultiple, delete, deleteMultiple)">
+    <list default="true" id="2bec76a7-6cb0-4c8d-8bfb-ce060200ba8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,27 +16,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EosYIdBYEllm838uhf7uMCHyAH" />
+  <component name="ProjectId" id="2Eqn8RmiF2aa3Q553t2arjwgeTm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rafet/OneDrive/noname/Masaüstü/java-camp-1/interfaces&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/rafet/OneDrive/noname/Masaüstü/java-camp-1/First-Java-Camp/First-Java-Camp/Week 3/Homework 2",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -61,65 +49,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="faa269f1-383c-4cd7-abc0-53012d9938fc" name="Changes" comment="" />
-      <created>1663273321223</created>
+      <changelist id="2bec76a7-6cb0-4c8d-8bfb-ce060200ba8b" name="Changes" comment="" />
+      <created>1663331821651</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663273321223</updated>
-      <workItem from="1663273323644" duration="5934000" />
-      <workItem from="1663279752426" duration="2550000" />
-      <workItem from="1663318979740" duration="5877000" />
+      <updated>1663331821651</updated>
+      <workItem from="1663331822911" duration="28000" />
     </task>
-    <task id="LOCAL-00001" summary="Project created">
-      <created>1663273412614</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1663273412614</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Base classes are created.">
-      <created>1663274708568</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1663274708568</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Manager classes created.">
-      <created>1663275852795</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1663275852795</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Base classes constructors created.">
-      <created>1663276573162</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1663276573162</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Base classes getters and setters created.">
-      <created>1663276877398</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1663276877398</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Fixed the problem of incorrectly naming the parameter found in the constructor function.">
-      <created>1663329190278</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1663329190278</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Manager classes functions created (add, addMultiple, delete, deleteMultiple)">
-      <created>1663329408478</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1663329408478</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,77 +64,7 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="0841fa8a-5a2f-4bd9-9780-6ed196dafab9">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="roots">
-                    <value>
-                      <list>
-                        <option value="$PROJECT_DIR$" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="185648bc-5fa3-4ac5-a64f-c58b5363e5ad">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="9831aade-425c-46e3-a072-dc3875521e25">
-          <value>
-            <State />
-          </value>
-        </entry>
         <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ID_WIDTH">
-                <map>
-                  <entry key="Table.Default.Author.ColumnIdWidth" value="75" />
-                  <entry key="Table.Default.Date.ColumnIdWidth" value="88" />
-                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="88" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="d6f56979-1292-468b-a378-5dfdc09389c7">
           <value>
             <State />
           </value>
@@ -207,13 +73,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Project created" />
-    <MESSAGE value="Base classes are created." />
-    <MESSAGE value="Manager classes created." />
-    <MESSAGE value="Base classes constructors created." />
-    <MESSAGE value="Base classes getters and setters created." />
-    <MESSAGE value="Fixed the problem of incorrectly naming the parameter found in the constructor function." />
-    <MESSAGE value="Manager classes functions created (add, addMultiple, delete, deleteMultiple)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manager classes functions created (add, addMultiple, delete, deleteMultiple)" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
