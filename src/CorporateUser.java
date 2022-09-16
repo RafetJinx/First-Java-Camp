@@ -3,9 +3,9 @@ public class CorporateUser extends User{
     private String name;
     private String taxNumber;
 
-    public CorporateUser(int id, String email, int id1, String name, String taxNumber) {
-        super(id, email);
-        this.id = id1;
+    public CorporateUser(int UserId, String UserMail, int id, String name, String taxNumber) {
+        super(UserId, UserMail);
+        this.id = id;
         this.name = name;
         this.taxNumber = taxNumber;
     }
