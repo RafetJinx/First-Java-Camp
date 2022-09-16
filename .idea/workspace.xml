@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa269f1-383c-4cd7-abc0-53012d9938fc" name="Changes" comment="Base classes getters and setters created.">
+    <list default="true" id="faa269f1-383c-4cd7-abc0-53012d9938fc" name="Changes" comment="Manager classes functions created (add, addMultiple, delete, deleteMultiple)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CorporateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CorporateUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CorporateUserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CorporateUserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndividualUserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualUserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InstructorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InstructorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,7 @@
       <updated>1663273321223</updated>
       <workItem from="1663273323644" duration="5934000" />
       <workItem from="1663279752426" duration="2550000" />
-      <workItem from="1663318979740" duration="4323000" />
+      <workItem from="1663318979740" duration="5877000" />
     </task>
     <task id="LOCAL-00001" summary="Project created">
       <created>1663273412614</created>
@@ -110,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663276877398</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed the problem of incorrectly naming the parameter found in the constructor function.">
+      <created>1663329190278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663329190278</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Manager classes functions created (add, addMultiple, delete, deleteMultiple)">
+      <created>1663329408478</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663329408478</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +212,8 @@
     <MESSAGE value="Manager classes created." />
     <MESSAGE value="Base classes constructors created." />
     <MESSAGE value="Base classes getters and setters created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Base classes getters and setters created." />
+    <MESSAGE value="Fixed the problem of incorrectly naming the parameter found in the constructor function." />
+    <MESSAGE value="Manager classes functions created (add, addMultiple, delete, deleteMultiple)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manager classes functions created (add, addMultiple, delete, deleteMultiple)" />
   </component>
 </project>
