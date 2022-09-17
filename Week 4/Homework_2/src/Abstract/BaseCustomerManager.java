@@ -9,6 +9,6 @@ public abstract class BaseCustomerManager implements CustomerService{
     //      Boylece "BaseCustomerManager"i extend eden siniflar icin ayni islevi gorecek.
     @Override
     public void save(Customer customer) {
-
+        System.out.println("Saved to db" + customer.getFirstName());
     }
 }
