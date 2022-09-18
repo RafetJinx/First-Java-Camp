@@ -8,14 +8,17 @@ public class StarbucksCustomerManager extends BaseCustomerManager {
 
     // Dependency Injection
     private CustomerCheckService customerCheckService;
+
+    public StarbucksCustomerManager(CustomerCheckService customerCheckService) {
+        this.customerCheckService = customerCheckService;
+    }
+
     @Override
     public void save(Customer customer) {
-        try {
-            if(customerCheckService.checkIfRealPerson(customer)){
-                super.save(customer);
-            }
-        } catch (Exception e) {
-            System.out.println("Not a valid person!");
+        if(customerCheckService.checkIfRealPerson(customer)){
+            super.save(customer);
+        }else {
+            throw new RuntimeException();
         }
     }
 
