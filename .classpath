@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Week 3/Homework_2/src"/>
+	<classpathentry kind="src" path="Week 4/Homework_2/src"/>
+	<classpathentry kind="src" path="Week 4/Homework_3/src"/>
+	<classpathentry kind="lib" path="Week 4/Homework_2/easywsdl/ExKsoap2-1.0.3.1.jar"/>
+	<classpathentry kind="lib" path="Week 4/Homework_2/easywsdl/ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
