@@ -10,14 +10,16 @@ public class Campaign implements Entity{
 	private String name;
 	private LocalDate startDate;
 	private LocalDate endDate;
+	private int ratio;
 	
-	public Campaign(int id, String category, String name, LocalDate startDate, LocalDate endDate) {
+	public Campaign(int id, String category, String name, LocalDate startDate, LocalDate endDate, int ratio) {
 		super();
 		this.id = id;
 		this.category = category;
 		this.name = name;
 		this.startDate = startDate;
 		this.endDate = endDate;
+		this.ratio = ratio;
 	}
 
 	public int getId() {
@@ -59,6 +61,16 @@ public class Campaign implements Entity{
 	public void setEndDate(LocalDate endDate) {
 		this.endDate = endDate;
 	}
+
+	public int getRatio() {
+		return ratio;
+	}
+
+	public void setRatio(int ratio) {
+		this.ratio = ratio;
+	}
+	
+	
 	
 	
 }
